@@ -1,0 +1,4 @@
+Imaginaţi o aplicaţie simplă ce necesită o bază de date. Reprezentaţi datele
+aplicaţiei într-o structură relaţională şi implementaţi structura într-o bază de date
+Microsoft SQL Server. Baza de date trebuie să conţină cel puţin 10 tabele şi trebuie
+să împlementeze cel puţin o relaţie 1-m şi cel puţin o relaţie m-n
